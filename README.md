@@ -1,4 +1,3 @@
-# Documentação e projeto, Banco de dados
+# Diretório para os scripts do segundo pset
 
-
-Projeto- Banco de Dados, UVV, Sistemas de informação, SI1N - Matheus Trevizani Barbosa
+- **scripts-relatorios.sql :** Arquivo com os scripts dos relatórios pedidos no pset.
